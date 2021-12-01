@@ -96,7 +96,4 @@ void protocol5(void) {
 		}
 	}
 }
- int main() {
-
-	 protocol5();
-}
+ 
